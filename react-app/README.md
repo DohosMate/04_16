@@ -1,1 +1,1 @@
-commit 1
+commit 2: delete App.js default content

@@ -1,9 +1,10 @@
 import React from 'react';
+import "tachyons";
 
 function App() {
   return (
-    <h1>Hello</h1>
-    <h2>2022.04.16</h2>
+    <div className=' tc   ma2 blue f1 grow'>Become Developer: Dohos Máté 2022.04.16</div>
+
   )
 }
 

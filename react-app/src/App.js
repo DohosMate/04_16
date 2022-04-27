@@ -3,7 +3,7 @@ import "tachyons";
 
 function App() {
   return (
-    <div className=' tc   ma2 blue f1 grow'>Become Developer: Dohos Máté 2022.04.16</div>
+    <div className=' tc   ma2 blue f1 grow'>Become Developer: Dohos Máté 2022.04.27</div>
 
   )
 }
